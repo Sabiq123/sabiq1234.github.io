@@ -1,0 +1,13 @@
+body {
+    color: black;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    font-family: 'arial';
+    text-align: center
+
+}
+#container {
+	margin-left: 110px;
+}

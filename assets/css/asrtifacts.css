@@ -1,0 +1,22 @@
+.row {
+	display: flex;
+	flex-direction: row;
+	flex: 3;
+	padding: 20px;
+}
+.bio {
+	flex: 1;
+	padding: 10px;
+}
+.profile-img {
+	border-radius: 50%;
+	height: 140px;
+	width: 140px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.name {
+	text-align: center;
+}
